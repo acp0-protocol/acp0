@@ -1,0 +1,2 @@
+pydantic>=2.0.0
+ecdsa>=0.18.0
